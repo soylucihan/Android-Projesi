@@ -1,0 +1,59 @@
+[
+    {
+        "title": "444",
+        "image": "http://10.0.3.2/app/movies3/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Actiadasdon", "Dasdrama", "Sasdaci-Fi"]
+    },
+	{
+        "title": "D4444",
+        "image": "http://10.0.3.2/app/movies3/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "444444444444444",
+        "image": "http://10.0.3.2/app/movies3/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "4444444444444",
+        "image": "http://10.0.3.2/app/movies3/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "444",
+        "image": "http://10.0.3.2/app/movies3/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "4444444444",
+        "image": "http://10.0.3.2/app/movies3/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "Dawn of the Planet of the Apes",
+        "image": "http://10.0.3.2/app/movies3/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "Dawn of the Planet of the Apes",
+        "image": "http://10.0.3.2/app/movies3/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    }
+    
+]

@@ -1,0 +1,7 @@
+//telefon numarasýyla arama yapmak 
+
+Intent intent = new Intent(Intent.ACTION_CALL, Uri.parse("tel:" + "Your Phone_number"));
+startActivity(intent);
+Manifest'te Ýzin:
+
+ <uses-permission android:name="android.permission.CALL_PHONE" />

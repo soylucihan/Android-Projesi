@@ -1,0 +1,59 @@
+[
+    {
+        "title": "Cihan Soylu222",
+        "image": "http://10.0.3.2/app/movies1/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Actiadasdon", "Dasdrama", "Sasdaci-Fi"]
+    },
+	{
+        "title": "Doğankan Genç222",
+        "image": "http://10.0.3.2/app/movies1/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "asfasfasfasf asf as fas f2222",
+        "image": "http://10.0.3.2/app/movies1/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "Dawn of the Planet of the Apes222",
+        "image": "http://10.0.3.2/app/movies1/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "Dawn of the Planet of the Apes",
+        "image": "http://10.0.3.2/app/movies/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "Dawn of the Planet of the Apes",
+        "image": "http://10.0.3.2/app/movies/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "Dawn of the Planet of the Apes",
+        "image": "http://10.0.3.2/app/movies/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    },
+	{
+        "title": "Dawn of the Planet of the Apes",
+        "image": "http://10.0.3.2/app/movies/1.jpg",
+        "rating": 8.3,
+        "releaseYear": 2014,
+        "genre": ["Action", "Drama", "Sci-Fi"]
+    }
+    
+]
