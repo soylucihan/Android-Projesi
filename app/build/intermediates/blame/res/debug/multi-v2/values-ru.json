@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Cihan\\StudioProjects\\izmiracilapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru\\values-ru.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Cihan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\b5632f8676cdb6a4dbd5db2da6b7ce96\\res\\values-ru\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "278,393,495,607,693,798,918,1024,1132,1230,1339,1445,1553",
+                        "endColumns": "114,101,111,85,104,119,105,107,97,108,105,107,135",
+                        "endOffsets": "388,490,602,688,793,913,1019,1127,1225,1334,1440,1548,1684"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,170,272,384,470,575,695,801,909,1007,1116,1222,1330",
+                        "endColumns": "114,101,111,85,104,119,105,107,97,108,105,107,135",
+                        "endOffsets": "165,267,379,465,570,690,796,904,1002,1111,1217,1325,1461"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Cihan\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-19.1.0.aar\\7c4178287ccd4ec29a16eac10de3965d\\res\\values-ru\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "280,413,521,633,737,824",
+                        "endColumns": "132,107,111,103,86,96",
+                        "endOffsets": "408,516,628,732,819,916"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1466,1599,1707,1819,1923,2010",
+                        "endColumns": "132,107,111,103,86,96",
+                        "endOffsets": "1594,1702,1814,1918,2005,2102"
+                    }
+                }
+            ]
+        }
+    ]
+}

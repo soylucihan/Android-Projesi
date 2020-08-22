@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Cihan\\StudioProjects\\izmiracilapp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-el\\values-el.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Cihan\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-19.1.0.aar\\7c4178287ccd4ec29a16eac10de3965d\\res\\values-el\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "280,393,504,613,718,805",
+                        "endColumns": "112,110,108,104,86,94",
+                        "endOffsets": "388,499,608,713,800,895"
+                    },
+                    "to": {
+                        "startLines": "15,16,17,18,19,20",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1491,1604,1715,1824,1929,2016",
+                        "endColumns": "112,110,108,104,86,94",
+                        "endOffsets": "1599,1710,1819,1924,2011,2106"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Cihan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-19.1.0.aar\\b5632f8676cdb6a4dbd5db2da6b7ce96\\res\\values-el\\values.xml",
+                    "from": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "278,396,507,624,709,814,940,1051,1161,1263,1374,1483,1591",
+                        "endColumns": "117,110,116,84,104,125,110,109,101,110,108,107,122",
+                        "endOffsets": "391,502,619,704,809,935,1046,1156,1258,1369,1478,1586,1709"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,284,401,486,591,717,828,938,1040,1151,1260,1368",
+                        "endColumns": "117,110,116,84,104,125,110,109,101,110,108,107,122",
+                        "endOffsets": "168,279,396,481,586,712,823,933,1035,1146,1255,1363,1486"
+                    }
+                }
+            ]
+        }
+    ]
+}

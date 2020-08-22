@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:9:5-45:19
+	android:label
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:12:9-45
+	android:allowBackup
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:10:9-79
+activity#info.androidhive.customlistviewvolley.MainActivity
+ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:label
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:17:13-45
+	android:name
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:16:13-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:21:27-74
+activity#info.androidhive.customlistviewvolley.Sayfa1
+ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:25:9-29:20
+	android:label
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:26:13-72
+activity#info.androidhive.customlistviewvolley.Sayfa2
+ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:31:9-35:20
+	android:label
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:32:13-72
+activity#info.androidhive.customlistviewvolley.Sayfa3
+ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:37:9-41:20
+	android:label
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:39:13-45
+	android:name
+		ADDED from C:\Users\Cihan\StudioProjects\izmiracilapp\app\src\main\AndroidManifest.xml:38:13-72
